@@ -1,2 +1,2 @@
-# anotacoes-para-estudos
+# Anotações para estudos
 Repositório com anotações e links para estudos relacionados a computação e inglês
